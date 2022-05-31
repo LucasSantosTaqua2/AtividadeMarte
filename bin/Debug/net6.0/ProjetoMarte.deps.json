@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ProjetoMarte/1.0.0": {
+        "runtime": {
+          "ProjetoMarte.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjetoMarte/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

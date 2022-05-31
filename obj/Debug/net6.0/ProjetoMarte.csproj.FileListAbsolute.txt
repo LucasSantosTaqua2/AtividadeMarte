@@ -1,0 +1,15 @@
+E:\ProjetosAMS-PI\ProjetoMarte\ProjetoMarte\bin\Debug\net6.0\ProjetoMarte.exe
+E:\ProjetosAMS-PI\ProjetoMarte\ProjetoMarte\bin\Debug\net6.0\ProjetoMarte.deps.json
+E:\ProjetosAMS-PI\ProjetoMarte\ProjetoMarte\bin\Debug\net6.0\ProjetoMarte.runtimeconfig.json
+E:\ProjetosAMS-PI\ProjetoMarte\ProjetoMarte\bin\Debug\net6.0\ProjetoMarte.dll
+E:\ProjetosAMS-PI\ProjetoMarte\ProjetoMarte\bin\Debug\net6.0\ref\ProjetoMarte.dll
+E:\ProjetosAMS-PI\ProjetoMarte\ProjetoMarte\bin\Debug\net6.0\ProjetoMarte.pdb
+E:\ProjetosAMS-PI\ProjetoMarte\ProjetoMarte\obj\Debug\net6.0\ProjetoMarte.csproj.AssemblyReference.cache
+E:\ProjetosAMS-PI\ProjetoMarte\ProjetoMarte\obj\Debug\net6.0\ProjetoMarte.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjetosAMS-PI\ProjetoMarte\ProjetoMarte\obj\Debug\net6.0\ProjetoMarte.AssemblyInfoInputs.cache
+E:\ProjetosAMS-PI\ProjetoMarte\ProjetoMarte\obj\Debug\net6.0\ProjetoMarte.AssemblyInfo.cs
+E:\ProjetosAMS-PI\ProjetoMarte\ProjetoMarte\obj\Debug\net6.0\ProjetoMarte.csproj.CoreCompileInputs.cache
+E:\ProjetosAMS-PI\ProjetoMarte\ProjetoMarte\obj\Debug\net6.0\ProjetoMarte.dll
+E:\ProjetosAMS-PI\ProjetoMarte\ProjetoMarte\obj\Debug\net6.0\ref\ProjetoMarte.dll
+E:\ProjetosAMS-PI\ProjetoMarte\ProjetoMarte\obj\Debug\net6.0\ProjetoMarte.pdb
+E:\ProjetosAMS-PI\ProjetoMarte\ProjetoMarte\obj\Debug\net6.0\ProjetoMarte.genruntimeconfig.cache
